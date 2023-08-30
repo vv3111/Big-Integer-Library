@@ -1,6 +1,6 @@
-# Big-Integer-Library
+#Extended Integer Manipulation Library
 
-## • Built a C++ library to handle mathematical and logical operations on integers which are greater than 64-bit
-## • Employed concepts of Object Oriented programming(OOP) like Operator Overloading and "this" pointer
-## • Library includes the functionality of handling all arithmetic and assignment operators like "%", "+=", etc
-## • Incorporated the library with optimised algorithm of Bitwise comparision operators for "Big integers"
+##• Developed a C++ library for managing arithmetic and logical tasks on integers beyond 64 bits in size.
+##• Applied Object-Oriented Programming (OOP) principles, including Operator Overloading and the "this" pointer.
+##• Encompasses full arithmetic and assignment functionality, covering operators like "%", "+=".
+##• Integrated optimized bitwise comparison algorithms for "Big Integers".
