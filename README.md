@@ -1,4 +1,4 @@
-# Extended Integer Manipulation Library
+# BIG INTEGER LIBRARY
 
 • Developed a C++ library for managing arithmetic and logical tasks on integers beyond 64 bits in size.
 
